@@ -1,6 +1,6 @@
 # AI Trading Journal 🎤📊
 
-> An automated trading journal that combines CSV parsing, AI-powered trade analysis, and Google Sheets integration for systematic trading improvement.
+> An automated voice-enabled AI trading journal that combines CSV parsing, AI-powered trade analysis, and Google Sheets integration for systematic trading improvement.
 
 ---
 
